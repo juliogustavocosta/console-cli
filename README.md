@@ -6,4 +6,4 @@ Com os dois documentos a seguir, apresentamos o uso do script _yc.sh_.
 > Esse documeto apresenta, por meio de exemplo, a forma de uso do nosso script [yc.sh](https://github.com/ycodify-tech/cli-scripts/blob/master/yc.sh) para linhas de comando bashscript. Usando-o, você será capaz de criar uma conta em nosso sandbox e criar seu primeiro _schema_ de dados. 
 
 ### 2. [Console] CLI - script yc.sh
-> Esse documento apresentará mais detalhadamente os recursos do script _[yc.sh](https://github.com/ycodify-tech/cli-scripts/blob/master/yc.sh)_. Por ele, você poderá criar e manter seu _schema_ de dados.
+> Esse documento apresentará mais detalhadamente os recursos do script [yc.sh](https://github.com/ycodify-tech/cli-scripts/blob/master/yc.sh). Por ele, você poderá criar e manter seu _schema_ de dados.
