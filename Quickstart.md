@@ -215,7 +215,7 @@ O resultado dessas operações deve ser um HTTP Status Code igual a 201. _Em cas
 No modelo apresentado na figura 1, no início desse documento, as entidades 'livro' e 'copia', relacionam-se. Entre elas existem uma relação de cardinalidade _1_ para _*_, ou seja, para cada instância de entidade de 'copia', uma instância de entidade de 'livro' precisa existir. Em outro sentido, uma instância de dados de 'livro' pode ser referênciada por até _*_ (n instancias) instâncias de entidade 'copia'. O script que realiza essa relação é o 'yc create relationship'. Veja na linha a seguir:
 
 ```shell
-$ yc create relationship biblioteca copia livro '"type":"livro","isNullable":"false","isUnique":"false"'
+$ yc create relationship biblioteca copia livro '"type":"livro","isNullable":false,"isUnique":false'
 ```
 O resultado dessa operação deve ser um HTTP Status Code igual a 201. _Em caso de erro, procure o suporte do serviço_.
 
