@@ -1,4 +1,4 @@
-## (Sumário) Documentação
+## Sumário de Documentação
 
 Com os dois documentos a seguir, apresentamos o uso do script _yc.sh_.
 
