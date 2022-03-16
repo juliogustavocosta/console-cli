@@ -5,7 +5,7 @@ A seguir está apresentado como usar o ambiente de modelagem oferecido pelo Ycod
 
 ### Baixar o script _yc.sh_
 
-Você poderá acessar esse script por meio do repositório em:  https://github.com/ycodify-tech/cli-scripts
+Você poderá acessar esse script por meio do repositório em:  https://github.com/ycodify-tech/console-cli/blob/master/yc.sh
 
 
 ## A Modelagem de _schema_ de dados de exemplo.
