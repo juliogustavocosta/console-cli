@@ -180,6 +180,18 @@ case "$1" in
     echo "      exemplo: yc create-admin-account ${bold}schema${normal} library"
     echo "      nota: guarde para posterior recuperação o nome de usuário e senha retornados por esse comando."
   ;;
+  "set")
+    case "$2" in
+      "sandbox")
+        export YC_PROTOCOL="https"
+        export YC_BAAS_ADDR="api.ycodify.com"
+      ;;
+      "production")
+        export YC_PROTOCOL="https"
+        export YC_BAAS_ADDR="api.ycodify.com"
+      ;;
+    esac;
+  ;;
   "create")
     case "$2" in
       "account")
